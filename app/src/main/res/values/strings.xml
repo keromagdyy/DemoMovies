@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">DemoMovies</string>
+    <string name="title_activity_movie_details">MovieDetails</string>
+    <string name="powered_by">Powered by CFH (Kerolos Magdy)</string>
+    <string name="app_logo">App Logo</string>
+    <string name="no_content_available">No content available</string>
+    <string name="popular_movies">Popular Movies</string>
+    <string name="upcoming_movies">Upcoming Movies</string>
+    <string name="earch">Search</string>
+    <string name="search_popular_movies">Search popular movies</string>
+    <string name="search">Search</string>
+    <string name="back">Back</string>
+</resources>
